@@ -14,4 +14,5 @@ Case Study 2:
 Time Series Forecasting of sales data
 
 Develop a Time Series model using SARIMA that can forecast future sales for a given business based on historical data. The model should be able to identify patterns and trends in the data, consider any seasonality or trends, and make predictions for future 2 years.
+
 Dataset: time_series_revenue.csv
